@@ -1,5 +1,8 @@
-# Betterment-Case-Study
+# Case Study
 ***
-![alt text](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.juststartinvesting.com%2Fbetterment-review-is-betterment-worth-it%2F&psig=AOvVaw1S7UfO8waicRGnxojfPiTU&ust=1605662604742000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCNjS-cG1iO0CFQAAAAAdAAAAABAD)
+![alt text](https://i2.wp.com/www.juststartinvesting.com/wp-content/uploads/2019/08/Is-Betterment-Worth-It-Feature.png?fit=1600%2C800&ssl=1)
 
 ## Overview and Origin
+
+* Betterment was founded in 200* and launched in 2010
+
