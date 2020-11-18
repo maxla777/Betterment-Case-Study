@@ -11,6 +11,8 @@
 
 ## Business Activities
 
-* In the past, financial advising had been extremely tedious and time consuming; maintining your invesment portfolio required you to monitor it frequently. Additionally, previous experience and research was the only way to develop financial strategies. Previosly, financial investing was only feasable for people who had the time and a significant amount of money. Betterment has no minimums to open accounts and their algorithms work behind the scenes non-stop, maximize every dolloar invested. Lastly all of this can be done and managed from the convienience of your iPhone or Android.
+* Betterment was created because financial advising had previously been extremely tedious and time consuming; maintining your invesment portfolio required you to monitor it frequently, or you could pay someone else to monitor it peridocially (financial advisors). Additionally, previous experience and research was the only way to develop financial strategies on your own. Financial investing was only worth while for people who had extra time and/or additional capital. Betterment saught out to solve these problems by providing people with intellegent investing advice, financial research and monitoring, all at a modest price.
+
+Betterment has no minimums to open accounts and their algorithms work behind the scenes non-stop to maximize every dolloar invested. Lastly all of this can be done and managed from the convienience of your iPhone or Android.
 
 * 
