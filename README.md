@@ -25,7 +25,15 @@
 
 * A few innovative technologies that have been adopted by the companies listed above, as well as others include:
 
-    * Data collection software
-    * Blockchain
-    * Artifical Intelligence
+    * Data collection software - Enhanced data gathering process that has been a major driver identifying potential investors, and imporving company operations.
+
+    * Blockchain - The financial industry is embracing blockchain, as it has proven as a viable currency that can reduce cost, while improving security.
+
+    * Artifical intelligence - AI is a main driver of efficinecy and cost-cutting. AI can be seen in customer service aspects of companies suchas chat bots and voice interfaces
+
+    * Cloud computing - Allows any size company access to a robust range of services and resources suchas software, data analytics, data bases, computing power, and online payments and transfers. Cloud computing is instrumental in allowing smaller companies to scale up with ease, as they only have to pay for services they utilize.
+
+## Results
+
+* Betterment has made life easier for many, as it stepped away from the status quo by eliminating difficulites for conusmers and as a result, giving them time. 
 
