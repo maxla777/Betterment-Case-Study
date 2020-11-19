@@ -35,5 +35,11 @@
 
 ## Results
 
-* Betterment has made life easier for many, as it stepped away from the status quo by eliminating difficulites for conusmers and as a result, giving them time. 
+* Betterment has made life easier for many people, while making life very difficult for traditional financial advisors. As it stepped away from the status quo by providing affordable expert advice, eliminating difficulites from the investment process and as a result, gave consumers more time to spend doing whatever it is they love. In any case, choosing the right robo advisor for you will depend on your goal, the level of human interation you are looking for and any fees associated with doin gbusiness. Betteremnt charges .25% of AUM annually. Betterment premium charges .40% annually and requires a $100,000 acct min.
 
+* In measuring the success of companies that offer robo advisors, I choose to look at assets under managemtn and equivilate it to market share. Below is a list of the top three robo advisors as of october 2nd. https://www.roboadvisorpros.com/robo-advisors-with-most-aum-assets-under-management/
+
+    # 1 ) Vangaurd Personal Advisor $161 billion AUM
+    # 2 ) Schwab Intelligent Portfolios $40.7 billion AUM
+    # 3 ) Betterment $22 billion AUM
+   
