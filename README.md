@@ -20,3 +20,12 @@
 * Betterment uses (futuristic robots to invest for you) AKA robo-advisors <-- That last statement is false. Betterment utilizes advanced algorythms to fuel their automated invesment platform. When users first sign up they are asked questions about their goals, the ideal time-frame to reach those goals and their susceptibility to risk. Behind the scenes - Betterment's advanced algorythms takes the answers to the questions and uses that information matches the user to a tailored portfolio. Once you start investing in your account, robo advisors (advanced algorythms) continuously look for opportunities to buy or sell investments, while keeping in mind your goal and time-frame. 
 
 ## Landscape 
+
+* Betterment falls into the financial investing/advising industry. A few competitors in this realm include Charles Schwab, Findelaity, Blooom and SoFi (Links). To remain competitive in this industry all of these companies use algorythms that evaluate quantitative financial data to better understand the performance of a company and predict wheather it is a good or not-so-good investment. Companies have also adopted hybrid financial advising models; utilizing robo advisors and offering human help when needed. Ultimatley, in order to stay competitive all of these companies had to embrace fintech.
+
+* A few innovative technologies that have been adopted by the companies listed above, as well as others include:
+
+    * Data collection software
+    * Blockchain
+    * Artifical Intelligence
+
