@@ -6,7 +6,7 @@
  
 * Betterment was founded by Jon Stein and Eli Broverman in 2008. An MBA graduate from Columbia Business School (Jon Stein) and a lawyer from New York (Eli Broverman) decided to pair up and disrupt the financial advising industry. Financial investing can be daunting, even for long-time investors but especially daunting for first-time investors. When people first start investing they expect to be confused and not know what they are doing. Jon Stein said in an interview, when asked about the design of the financial industry " Many people intuitively think that the way things are is the way they should be, or that there is something inherently good about the status quo.". Jon and Eli both set out with the goal of designing a better financial advising approach, and Betterment was born. 
  
-* In 2010 Betterment officially launched at [TechCrunch Disrupt New York](https://techcrunch.com/2010/03/01/techcrunch-disrupt-ny-2010/?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&guce_referrer_sig=AQAAABNvhGCu6jIFGQtpk5t48K3nBBuenCYQcQAOCyPrSEz7tXXqpFwHJZWdn8QfR542E6W7SZTGBJBbEoNtF5-NfawXJxC3lJjf-eze-ng7ShK3C9aGzjFYjdmF8V-IxssmAo_1Oh2G_x6SIip7O1of-8-VWtpWvWH6vnTB8EIALQ-c) and began speaking with venture capital firms within 24 hours. crunchbase ``` insert https://www.crunchbase.com/organization/betterment ``` shows that Betterment has received a total funding amount of $275 million.
+* In 2010 Betterment officially launched at [TechCrunch Disrupt New York](https://techcrunch.com/2010/03/01/techcrunch-disrupt-ny-2010/?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&guce_referrer_sig=AQAAABNvhGCu6jIFGQtpk5t48K3nBBuenCYQcQAOCyPrSEz7tXXqpFwHJZWdn8QfR542E6W7SZTGBJBbEoNtF5-NfawXJxC3lJjf-eze-ng7ShK3C9aGzjFYjdmF8V-IxssmAo_1Oh2G_x6SIip7O1of-8-VWtpWvWH6vnTB8EIALQ-c) and began speaking with venture capital firms within 24 hours. [Crunchbase](https://www.crunchbase.com/organization/betterment) shows that Betterment has received a total funding amount of $275 million.
  
 ## Business Activities
  
@@ -36,7 +36,7 @@
  
 * Betterment has made life easier for many people, while making life very difficult for traditional financial advisors. As it stepped away from the status quo by providing affordable expert advice, eliminating difficulties from the investment process and as a result, gave consumers more time to spend doing whatever it is they love. In any case, choosing the right robo advisor for you will depend on your goal, the level of human interaction you are looking for and any fees associated with doing business. Betterment charges .25% of AUM annually. Betterment premium charges .40% annually and requires a $100,000 acct min.
  
-* In measuring the success of companies that offer robo advisors, I choose to look at assets under management and associate this metric with market share. Below is a list of the top three robo advisors as of october 2nd. https://www.roboadvisorpros.com/robo-advisors-with-most-aum-assets-under-management/
+* In measuring the success of companies that offer robo advisors, I choose to look at assets under management and associate this metric with market share. Below is a list of the top three robo advisors as of october 2nd. I found this data on [Robo-advisors pro website](https://www.roboadvisorpros.com/robo-advisors-with-most-aum-assets-under-management/)
  
     # 1 ) Vangaurd Personal Advisor at $161 billion AUM
     # 2 ) Schwab Intelligent Portfolios at $40.7 billion AUM
